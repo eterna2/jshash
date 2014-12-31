@@ -24,7 +24,7 @@ var Unsigned32bitInteger = jshash.djb2("someStringKey");
 
 * `jshash.pearson`: [Pearson](http://en.wikipedia.org/wiki/Pearson_hashing) 8-bit hash function.
 
-* `jshash.djb2`: [Bernstein's](http://en.wikipedia.org/wiki/Daniel_J._Bernstein) (djb2)[http://www.cse.yorku.ca/~oz/hash.html] hash function.
+* `jshash.djb2`: [Bernstein's](http://en.wikipedia.org/wiki/Daniel_J._Bernstein) [djb2](http://www.cse.yorku.ca/~oz/hash.html) hash function.
 
 * `jshash.sdbm`: [Hash function](http://www.cse.yorku.ca/~oz/hash.html) used in [sdbm](http://wiki.call-cc.org/eggref/4/sdbm).
 
