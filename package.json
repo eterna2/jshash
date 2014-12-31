@@ -1,0 +1,26 @@
+{
+    "name": "jshash",
+    "version": "0.0.1",
+    "engines" : { "node" : "~0.10.28" },
+    "author": {
+        "name": "William Teo",
+        "email": "eterna2@hotmail.com",
+        "url": "http://www.eterna2.net"
+    },
+    "description": "JS implementation of various non-crypto hash functions.",
+    "keywords": [
+        "hash"
+    ],
+    "main": "jshash.js",
+    "files": [
+        "jshash.js"
+    ],
+    "url": "http://github.com/eterna2/JSHash",
+    "email": "eterna2@hotmail.com",
+    "homepage": "http://github.com/eterna2/JSHash",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/eterna2/JSHash"
+    },
+    "license": "MIT"
+}
